@@ -1,0 +1,36 @@
+git remote add origin https://github.com/rohan1917/zomato-landing-page-DT.git
+
+git status
+
+git add .
+
+git status
+
+git commit -m "Ill be adding README.md file"
+
+git push origin master
+
+
+(new contributer edited some code )
+
+
+git pull origin master
+
+git clone
+
+
+// To create a new branch 
+
+
+git checkout -b "new branch"
+
+
+git status
+
+git add .
+
+git status
+
+git commit -m "new branch created"
+
+git push InstallationSetUp
